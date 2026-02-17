@@ -1,5 +1,4 @@
-# Hey, I'm Michael 
-###### (but I usually just go by Mick)
+# Hey, I'm Michael, but everyone just calls me Mick
 
 CS @ University of Michigan '26. I build things between classes and playing basketball.
 
