@@ -1,6 +1,6 @@
 # Hey, I'm Michael, but everyone just calls me Mick
 
-CS @ University of Michigan '26. I build things between classes and playing basketball.
+CS @ University of Michigan '26. Building things between classes and playing basketball.
 
 ### What I'm working on
 
