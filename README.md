@@ -10,12 +10,6 @@ CS @ University of Michigan '26. Building things between classes and playing bas
 
 🐦 **[TrendPoster](https://github.com/arundelm/trendposter)** — AI-powered tweet scheduler that watches trending topics and posts your queued tweets at the perfect moment. Supports Claude, GPT, Gemini, and local models.
 
-### What I'm into
-
-- AI agents & LLM toolingt
-- Startups — building something big is the plan
-- Web & mobile development
-
 ### Elsewhere
 
 🌐 [arundelm.github.io](https://arundelm.github.io)
